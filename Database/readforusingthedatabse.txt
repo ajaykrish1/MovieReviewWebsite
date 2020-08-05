@@ -1,0 +1,1 @@
+copy the contents from the sql file below and paste it in the phpmyadmin

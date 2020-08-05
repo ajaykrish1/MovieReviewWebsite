@@ -1,0 +1,133 @@
+#Movie_button{
+  border: 2px solid orange;
+  background: orange;
+  width:140px;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+#Movie_button:hover{
+   background: yellow;
+   border: 2px solid yellow;
+}
+#image
+{
+  display: none;
+}
+body{
+  background: black;
+}
+
+
+#movie_name{
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 5px;
+  position: relative;
+  left:3px;
+  color: white;
+}
+#comment{
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 5px;
+  position: relative;
+  left:3px;
+    color: white;
+}
+
+
+.new{
+  display:inline-block;
+  font-size: 40px;
+  color:gold;
+  position: relative;
+  cursor: pointer;
+
+
+
+}
+.hover{
+  display:inline-block;
+  font-size: 40px;
+  color:goldenrod;
+  position: relative;
+  cursor: pointer;
+
+
+
+}
+
+.star-wrapper input{
+  display: none;
+}
+.star-wrapper label{
+  display:inline-block;
+  font-size: 40px;
+  position: relative;
+  cursor: pointer;
+
+
+
+}
+h1
+{
+  height: 80px;
+  color: white;
+}
+.container{
+border-left:1px solid black;
+padding-top: 60px;
+
+}
+.container .col-md-4{
+  border:1px solid white;
+  padding: 15px;
+  padding-left: 25px;
+  color:white;
+  height: 100%;
+
+
+}
+.list{
+
+  padding: 15px;
+
+  color:white;
+  height: 100%;
+
+
+}
+#bttn{
+  color: black;
+  background: orange;
+  border: 1px solid black;
+  width:100px;
+  height: 34px;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  top:10px;
+  left:60px;
+  font-size: 16px;
+}
+#bttn:hover{
+  background: yellow;
+}
+#submit{
+  color: black;
+  background: orange;
+  border: 1px solid black;
+  width:100px;
+  height: 34px;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  top:10px;
+  left:50px;
+  font-size: 16px;
+}
+#submit:hover{
+  background: yellow;
+}
