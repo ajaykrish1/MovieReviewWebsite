@@ -1,2 +1,2 @@
 # MovieReviewWebsite
-It is a website where one can keep a count of movies he has watched and also give the movies rating so as to get and idea of what movies were good
+It is a website where one can give rating and comments to movies and keep a list of movies he has watched or wants to watch
